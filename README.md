@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Karunesh-Vadaliya
 - 👀 I’m interested in php based works
-- 🌱 I’m currently learning new things in laravel
+- 🌱 I’m 6+ years of experiance in PHP/laravel
 - 💞️ I’m looking to collaborate on php/laravel work
 - 📫 How to reach me via email: karunesh.vadaliya@gmail.com, linkedin: https://www.linkedin.com/in/karunesh-vadaliya-34a67989/, mobile: +91 9687229241
 
